@@ -16,3 +16,8 @@
     color: var(--light-color);
   }
 }
+
+.menu--active {
+  opacity: 1;
+  visibility: visible;
+}
